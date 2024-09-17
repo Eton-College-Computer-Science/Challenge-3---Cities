@@ -25,6 +25,8 @@
 /* Begin PBXFileReference section */
 		B42007672C9974AA004486DA /* Challenge 3 - Cities */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Challenge 3 - Cities"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B420076A2C9974AA004486DA /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		B42007712C9974C1004486DA /* pseudocode.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = pseudocode.txt; sourceTree = "<group>"; };
+		B42007722C9974CF004486DA /* readme.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = readme.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,8 @@
 			isa = PBXGroup;
 			children = (
 				B420076A2C9974AA004486DA /* main.swift */,
+				B42007712C9974C1004486DA /* pseudocode.txt */,
+				B42007722C9974CF004486DA /* readme.md */,
 			);
 			path = "Challenge 3 - Cities";
 			sourceTree = "<group>";
